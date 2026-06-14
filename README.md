@@ -1,0 +1,2 @@
+# Interpretable-Cancer-Detection-in-Histopathology-via-Mathematical-Feature-Extraction-Classical-ML
+This repository contains the complete implementation of an interpretable histopathological cancer detection framework using mathematical feature extraction and classical machine learning. It includes preprocessing, 117-dimensional feature extraction, SVM, Random Forest, XGBoost models, external validation, datasets, and reproducible experiments.
